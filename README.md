@@ -9,7 +9,7 @@
   </ul>
 </div>
 
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -19,7 +19,7 @@
 
 
 <!--Intro start--> 
- 
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
