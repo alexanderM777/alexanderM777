@@ -1,25 +1,25 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block"> </h1></summary>
   </ul>
-</div>
-
-
+</div> 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary> <img align="center" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></summary>
+  </ul>
+</div> 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
+   <td width="100%" align="center">
     <summary><h2 style="display: inline-block"> </h2></summary>
   </ul>
-</div>
-
-
-<!--Intro start--> 
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</div> 
+<!--Intro start-->  
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
